@@ -1,5 +1,5 @@
 # Interactive-Dashboard-for-Chronic-Pain-Management
-Designing an interactive dashboard for chronic pain management 
+Designing an interactive dashboard for chronic pain management using the NHANES datasets and Tableau
 
 ## Introduction
 For the design of an interactive dashboard for chronic pain management, relevant datasets from the NHANES 1999-2000 survey were identified and selected. Information on analgesic pain relievers, occupation, miscellaneous pain, medical conditions, and general health status was included in the datasets. The column names in each dataset were then examined to determine the fields most relevant to chronic pain management, such as pain intensity, duration, use of pain relievers, and general health condition. This process ensured that the focus was placed on the most pertinent data for the creation of a comprehensive and insightful dashboard.
